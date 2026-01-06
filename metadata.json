@@ -1,0 +1,8 @@
+{
+  "name": "AgriKwik Technology Portfolio",
+  "description": "A professional business portfolio for AgriKwik Technology, an agritech company in Malawi providing digital farm management, data analytics, and advisory services.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
